@@ -47,10 +47,9 @@ Verify certificate: [coursera.org/verify/L7T8M9U3ALV2](https://coursera.org/veri
 
 Add your dashboard screenshots here, for example:
 
-```markdown
+
 ![Sales Dashboard](images/sales-dashboard.png)
 ![Service Dashboard](images/service-dashboard.png)
-```
 
 ---
 
